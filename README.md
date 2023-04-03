@@ -1,2 +1,2 @@
-# Arquitectura-del-cpmputador
+# Arquitectura-del-computador
 Tareas 
